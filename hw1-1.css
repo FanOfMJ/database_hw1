@@ -1,0 +1,41 @@
+a:link{color:yellow;}
+body{
+    background-image:url(https://ae01.alicdn.com/kf/HTB1_TpeKFXXXXc6aXXXq6xXFXXXb/Free-Shipping-custom-3D-cartoon-wallpaper-mural-children-room-hotel-living-room-bedroom-hot-air-balloon.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+.Word{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+
+.board{
+    width: 350px;
+    height:250px;
+    padding: 25px;
+    text-align: center;
+	margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    color: #FFFF59; /* Choose a color for your words */
+
+    letter-spacing: 1px;
+    font-weight: 900;
+	font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    color: indigo; 
+    letter-spacing: 1px;
+    font-weight: 900;
+}
